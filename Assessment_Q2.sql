@@ -11,6 +11,8 @@
   Date: 18/5/2025
 */
 
+USE adashi_staging;
+
 -- Step 1: Calculate total transactions and average transactions per month for each user
 WITH user_txn AS (
     SELECT
