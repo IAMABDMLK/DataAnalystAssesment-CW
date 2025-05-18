@@ -7,7 +7,7 @@
   Date: 18/5/2025
 */
 
-USE adashing_staging;
+USE adashi_staging;
 
 -- Step 1: Calculate account tenure, total transactions, and estimated CLV
 SELECT 
